@@ -1,0 +1,9 @@
+{
+    "rotors": [
+        {"wiring": "EKMFLGDQVZNTOWYHXUSPAIBRCJ", "notch": "Z", "position": 0},
+        {"wiring": "AJDKSIRUXBLHWTMCQGZNPYFVOE", "notch": "E", "position": 0},
+        {"wiring": "BDFHJLCPRTXVZNYEIWGAKMUSQO", "notch": "V", "position": 0}
+    ],
+    "reflector": "YRUHQSLDPXNGOKMIEBFZCWVJAT",
+    "plugboard": [["A", "B"], ["C", "D"], ["M", "T"]]
+}
